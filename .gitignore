@@ -1,5 +1,8 @@
 #specific
-
+output/
+.ai
+.png
+.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
